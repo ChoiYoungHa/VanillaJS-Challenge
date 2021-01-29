@@ -6,7 +6,7 @@ const ob = {
     address : 'Hwagok',
     todoList:['JavaScript','SpringBoot','CS50'],
     favFood : [
-        {name : 'ChikenChestMeet', price : 20000},
+        {name : 'ChikenChestMeet', price : 20000}
     ],
     favleng : [
         {name : 'java', howto: 'inteliJ'}
