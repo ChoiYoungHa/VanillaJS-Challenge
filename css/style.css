@@ -1,3 +1,14 @@
 body {
   background-color: goldenrod;
 }
+
+#title {
+}
+
+.clicked {
+  color: #b53471;
+}
+
+.btn {
+  cursor: pointer;
+}
