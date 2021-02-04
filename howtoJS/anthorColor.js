@@ -19,7 +19,6 @@ const CLICKED_CLASS = "clicked";
 function handlerClick(){
     const CLICKED_CLASS = "clicked"; 
     title.classList.toggle(CLICKED_CLASS); // 위의 코드5줄을 한줄로 바꾸는 마법
-   
 }
 
 function init(){
