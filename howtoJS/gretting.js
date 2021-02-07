@@ -17,7 +17,7 @@ function handleSubmit(event){
 }
 
 
-function askForName(){
+function askForName() {
     form.classList.add(SHOWING_CN); // form을 보여줌.
     form.addEventListener("submit",handleSubmit); // 제출을 대기하고 제출 시, 해당함수가 실행됨.
 }
