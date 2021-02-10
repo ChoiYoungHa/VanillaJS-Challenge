@@ -25,6 +25,10 @@ h1 {
   display: block;
 }
 
+span {
+  margin: 0px;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
