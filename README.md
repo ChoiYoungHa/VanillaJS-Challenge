@@ -1,2 +1,2 @@
 #VanillaJS_Challenge
-- JS
+- JavaScript
